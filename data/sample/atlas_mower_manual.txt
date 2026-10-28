@@ -1,0 +1,9 @@
+Atlas Mower user manual, version 3.
+
+The Atlas Mower uses the Helios-2 battery pack, which gives about 120 minutes of mowing on a full charge. Charging from empty to full takes roughly 90 minutes on the standard dock.
+
+Error code E17 means the blade motor is overheating. Stop the mower, remove grass from under the deck, and let it cool for 20 minutes. If E17 returns, contact Northwind Support.
+
+Error code E22 means the boundary wire signal is lost. Check that the dock is powered and that the boundary wire has no breaks.
+
+The Helios-2 battery should be stored indoors during winter at around 50 percent charge.

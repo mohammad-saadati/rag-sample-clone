@@ -1,0 +1,20 @@
+# core (required)
+numpy>=1.24
+networkx>=3.0
+pypdf>=4.0
+
+# quality models (recommended; without them offline fallbacks are used)
+sentence-transformers>=3.0
+# faiss-cpu>=1.8          # ANN search for large corpora (>5k chunks)
+
+# LLM backends (pick one, or none for the extractive fallback)
+anthropic>=0.40
+requests>=2.31            # for OpenAI-compatible servers (Ollama, vLLM, LM Studio)
+
+# optional ingestion extras
+# python-docx             # .docx
+# pytesseract pillow      # OCR for images (also install the tesseract binary + 'fas' language)
+# pdf2image               # OCR for scanned PDFs (needs poppler)
+
+# optional HTTP API
+# fastapi uvicorn

@@ -1,0 +1,5 @@
+Safety notice: voluntary recall of Helios-2 battery packs.
+
+In March 2025 Northwind Robotics announced a voluntary recall of Helios-2 battery packs produced between June and September 2024 by its supplier VoltaCell. A small number of cells could swell when charged in temperatures above 40 degrees Celsius.
+
+Affected owners receive a free replacement Helios-3 pack. The recall was coordinated by Dr. Lena Okafor, head of product safety at Northwind Robotics.

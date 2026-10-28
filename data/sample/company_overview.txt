@@ -1,0 +1,5 @@
+Northwind Robotics is a consumer robotics company founded in 2016 in Rotterdam. Its CEO is Marcus Veldt.
+
+The company sells the Atlas Mower, a robotic lawn mower, and the Kestrel Drone, an inspection drone for roofs and gutters. Batteries for both products are supplied by VoltaCell, a manufacturer based in Poland.
+
+GreenYard Supplies is the largest reseller of Northwind products in Germany and Austria.
