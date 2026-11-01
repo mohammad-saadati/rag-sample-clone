@@ -1,0 +1,23 @@
+{
+  "embedding_model": "hashing-1024",
+  "reranker_model": "heuristic",
+  "chunk_words": 200,
+  "chunk_overlap": 40,
+  "bm25_k": 50,
+  "dense_k": 50,
+  "graph_k": 30,
+  "rrf_k": 60,
+  "rrf_weights": {
+    "bm25": 1.0,
+    "dense": 1.0,
+    "graph": 0.7
+  },
+  "rerank_pool": 30,
+  "final_k": 6,
+  "use_graph": true,
+  "graph_extractor": "regex",
+  "graph_glossary": [],
+  "ingest_workers": 1,
+  "ocr_lang": "eng+fas",
+  "embedding_model_resolved": "hashing-1024"
+}
